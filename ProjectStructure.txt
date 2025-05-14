@@ -1,0 +1,11 @@
+ObjectDetectionByYOLOV8/
+│
+├── main.py                       # Entry point: handles initialization and tracking loop
+├── configs.py                    # Configuration file for parameters (colors, thresholds, camera index)
+│
+├── tracking/
+│   ├── detector.py               # Contains logic for detecting the object (e.g., color detection)
+│   └── utils.py                  # Utility functions (e.g., drawing bounding boxes, distance calc)
+│
+├── ProjectStructure.txt
+└── requirements.txt              # Required Python libraries

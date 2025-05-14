@@ -7,5 +7,12 @@ ObjectDetectionByYOLOV8/
 │   ├── detector.py               # Contains logic for detecting the object (e.g., color detection)
 │   └── utils.py                  # Utility functions (e.g., drawing bounding boxes, distance calc)
 │
+├── FinetunedForTrafficBasedDetection/
+│   ├── video.mp4               
+│   ├── configs.py              
+│   ├── detector.py               
+│   ├── main.py              
+│   └── utils.py
+│
 ├── ProjectStructure.txt
 └── requirements.txt              # Required Python libraries

@@ -1,4 +1,4 @@
 .env
-models/
 *.pyc
 __pycache__/
+*.mp4
